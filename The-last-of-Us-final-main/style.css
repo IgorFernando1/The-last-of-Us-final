@@ -1,11 +1,11 @@
 :root {
     --primary-dark: #1a1a1a;
     --secondary-dark: #2a2a2a;
-    --accent-green: #4a6b4a;
-    --accent-brown: #5c4a3a;
-    --text-primary: #e0e0e0;
-    --text-secondary: #b0b0b0;
-    --highlight: #7ea07e;
+    --accent-green: #2b5e40;
+    --accent-brown: #255539;
+    --text-primary: #ffffff;
+    --text-secondary: #ffffff;
+    --highlight: #faf8f8;
 }
 
 * {
@@ -133,7 +133,7 @@ section h2 {
     border-radius: 8px;
     overflow: hidden;
     transition: transform 0.3s ease;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 5px 15px rgba(65, 141, 89, 0.3);
 }
 
 .video-card:hover {
